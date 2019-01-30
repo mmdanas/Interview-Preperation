@@ -1,2 +1,2 @@
 # Interview-Preperation
-Documents on research on how to get started
+All necessary documents for pre interview preperations
