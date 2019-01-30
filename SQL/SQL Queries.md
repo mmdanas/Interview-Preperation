@@ -14,4 +14,11 @@ Select coulmn from table where condition;
  ```
 # Joins
 - There are different types of Joins
-  
+
+ ![](https://github.com/mohamedanasmmd/Interview-Preperation/blob/master/img_fulljoin.gif)  
+ 
+ ![](https://github.com/mohamedanasmmd/Interview-Preperation/blob/master/img_innerjoin.gif) 
+ 
+ ![](https://github.com/mohamedanasmmd/Interview-Preperation/blob/master/img_leftjoin.gif) 
+ 
+ ![](https://github.com/mohamedanasmmd/Interview-Preperation/blob/master/img_rightjoin.gif) 
