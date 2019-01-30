@@ -11,6 +11,16 @@
 Select * From Table_name;
 Select Column1,column2 from Table_name;
 Select coulmn from table where condition;
+select columns from table where condition in (Values1, values2..);
+Select columns from table where condition between value1 and value2;
+Select Column from table where condition like pattern;
+Select column from table where condition order by column desc/asc;
+Select column from table where condition order by column;
+Select count(Column) from table where condition;
+
+
+
+
  ```
 # Joins
 - There are different types of Joins
